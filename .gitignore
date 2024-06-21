@@ -3,5 +3,6 @@
 *.json
 *.parquet
 #abrir exceção para json e parquet to bi
+
 !config_ini_example.ini
 !src/clean_data/extraction_RJ_012024_052024_22472.parquet
