@@ -42,7 +42,7 @@ e salvar o token no arquivo de configuração na sessão "auth_token"
 - Para elaborar o dashboard, fiz uma extração de Jan/24 a Mai/24.
 - O script passa como parâmetro UF = RJ para trazer apenas dados do Estado do RJ
 
-#### Dashboard [Link aqui](https://app.powerbi.com/groups/me/reports/5806767a-d323-4e3c-87cb-33b76209a5d9/bd2758d1acb8804de259?experience=power-bi)
+#### Dashboard [Link aqui](https://app.powerbi.com/view?r=eyJrIjoiNDlmNjBlOTctMmI4My00ZDVjLWE4ZWUtYzU4NzIxN2QwODcyIiwidCI6ImFhNDk1ZjJjLWQzN2UtNGI1OC1hYjk1LWJmMDg3NGEzYWRiMiJ9)
 O dashboard procura oferecer uma visão descritiva sobre as despesas federais no estado do RJ e facilitar
 a extração de informação de uma grande base de dados. As transformações no Power Query são relativamente simples
 já que os dados já vem tratados da API. Criei também uma tabela de data para ordernar os meses e uma de medidas
